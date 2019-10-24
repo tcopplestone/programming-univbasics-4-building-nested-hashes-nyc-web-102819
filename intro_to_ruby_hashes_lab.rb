@@ -12,7 +12,7 @@ def monopoly_with_third_tier
       pieces: 4,
       names: []
       rent_in_dollars: {
-        key: "level1",
+        one_piece_owned: "level1",
         key2: "level2",
         key3: "level3",
         key4: "level4"
