@@ -31,7 +31,9 @@ def monopoly_with_fourth_tier
     railroads: {
       pieces: 4,
       names: {
-        shortline_railroad: {},
+        shortline_railroad: {
+          mortage_value:
+        },
         b_and_o_railroad: {},
         pennsylvania_railroad: {},
         reading_railroad: {}
