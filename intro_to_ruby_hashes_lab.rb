@@ -12,7 +12,8 @@ def monopoly_with_third_tier
       pieces: 4,
       names: {
         shortline_railroad: {},
-        b_
+        b_and_o_railroad: {},
+        
       }
       rent_in_dollars: {
         one_piece_owned: 25,
