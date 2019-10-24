@@ -14,7 +14,7 @@ def monopoly_with_third_tier
         shortline_railroad: {},
         b_and_o_railroad: {},
         pennsylvania_railroad: {},
-        
+        reading_railroad: {}
       }
       rent_in_dollars: {
         one_piece_owned: 25,
